@@ -1,0 +1,10 @@
+﻿<Application x:Class="WPF_JazzStoryListApp.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:WPF_JazzStoryListApp"
+             Startup="Application_Startup"> <!--Changes from StartupUri to startup to keep it from going to a window as the logic for our program will not live there.
+                                            We want it togo to a method that allows us to start an applicaition. The method lives in the "codebehind" under the App.xaml.cs file-->
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>

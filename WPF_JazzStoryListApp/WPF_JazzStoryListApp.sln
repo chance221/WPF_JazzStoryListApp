@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPF_JazzStoryListApp", "WPF_JazzStoryListApp\WPF_JazzStoryListApp.csproj", "{87E8A5BC-67CF-4BBE-B6AF-849B806E1690}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Documentation", "Documentation", "{F84646AF-1025-4E83-8D65-6FF62725C439}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{87E8A5BC-67CF-4BBE-B6AF-849B806E1690}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87E8A5BC-67CF-4BBE-B6AF-849B806E1690}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87E8A5BC-67CF-4BBE-B6AF-849B806E1690}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87E8A5BC-67CF-4BBE-B6AF-849B806E1690}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0AC3BB8E-4E8A-4AAF-A3A8-D1064425AC92}
+	EndGlobalSection
+EndGlobal

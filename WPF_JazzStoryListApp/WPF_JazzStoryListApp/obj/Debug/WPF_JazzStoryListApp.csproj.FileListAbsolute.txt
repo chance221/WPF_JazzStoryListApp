@@ -1,0 +1,6 @@
+C:\Users\cjkel\source\repos\WPF_JazzStoryListApp\WPF_JazzStoryListApp\obj\Debug\WPF_JazzStoryListApp.csprojAssemblyReference.cache
+C:\Users\cjkel\source\repos\WPF_JazzStoryListApp\WPF_JazzStoryListApp\obj\Debug\MainWindow.g.cs
+C:\Users\cjkel\source\repos\WPF_JazzStoryListApp\WPF_JazzStoryListApp\obj\Debug\PresentationLayer\ProductWindowView.g.cs
+C:\Users\cjkel\source\repos\WPF_JazzStoryListApp\WPF_JazzStoryListApp\obj\Debug\App.g.cs
+C:\Users\cjkel\source\repos\WPF_JazzStoryListApp\WPF_JazzStoryListApp\obj\Debug\WPF_JazzStoryListApp_MarkupCompile.cache
+C:\Users\cjkel\source\repos\WPF_JazzStoryListApp\WPF_JazzStoryListApp\obj\Debug\WPF_JazzStoryListApp_MarkupCompile.lref
