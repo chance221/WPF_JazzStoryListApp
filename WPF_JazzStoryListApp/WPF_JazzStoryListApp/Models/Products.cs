@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace WPF_JazzStoryListApp.Models
 {
-    class Products
+    public class Products
     {
         #region ENUMS
 

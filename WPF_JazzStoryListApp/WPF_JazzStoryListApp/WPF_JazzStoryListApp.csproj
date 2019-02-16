@@ -63,7 +63,9 @@
       <DependentUpon>App.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="BusinessLayer\ProductBL.cs" />
+    <Compile Include="BusinessLayer\ProductBL.cs">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
     <Compile Include="MainWindow.xaml.cs">
       <DependentUpon>MainWindow.xaml</DependentUpon>
       <SubType>Code</SubType>
@@ -71,14 +73,22 @@
     <Page Include="PresentationLayer\ProductWindowView.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Page>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Models\Company.cs" />
-    <Compile Include="Models\Products.cs" />
-    <Compile Include="PresentationLayer\ProductWindowPresenter.cs" />
+    <Compile Include="Models\Company.cs">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="Models\Products.cs">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="PresentationLayer\ProductWindowPresenter.cs">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
     <Compile Include="PresentationLayer\ProductWindowView.xaml.cs">
       <DependentUpon>ProductWindowView.xaml</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs">
       <SubType>Code</SubType>
